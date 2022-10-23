@@ -8,3 +8,8 @@ if menuselection == 1:
     print("The area of your chosen shape is", area)
 elif menuselection == 2:
     base = int(input("Enter the length of your base: "))
+    height = int(input("Enter the height of the triangle: "))
+    area = (base*height)/2
+    print("The area of your chosen shape is", area)
+else:
+    print("Incorrect option selected")
