@@ -1,4 +1,4 @@
-# display square and traingle
+# Display Square and Triangle
 
 This program would display the following message:
     1) Square
